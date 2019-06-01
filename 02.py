@@ -1,4 +1,14 @@
-print("hello world")
-hi
-hello
-hello
+# A comment, this is so you can read your program later.
+# Anything after the # is ignored by python.
+
+print("I could have code like this.") # and the comment after is ignored
+
+# You can also use a comment to "disable" or comment out a pirce of code:
+# print("This won't run")
+
+print("This will run.")
+
+#SHOULD SEE
+
+I could have code like this.
+This will run.
